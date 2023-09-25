@@ -10,5 +10,3 @@ def sum(firstArg: Int, secondArg: Int): Int =
 println("Проверка работы функции суммирования двух аргументов:\n")
 
 sum(1, 2)
-
-println("Проверка создания новой ветки.")
